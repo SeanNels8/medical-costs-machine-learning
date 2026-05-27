@@ -4,7 +4,7 @@ An enterprise-level data science and business intelligence case study focused on
 
 ---
 
-## 🎯 Executive Summary & Business Case
+##  Executive Summary & Business Case
 
 ### The Problem
 Traditional health insurance premium underwriting often relies on generalized historical brackets, leading to mispriced policies, adverse selection risks, and competitive disadvantages. To safeguard profit margins while ensuring fair, competitive pricing, financial underwriting teams must understand exactly which demographic, physiological, and lifestyle traits drive real-world medical claims variance, and quantify that impact mathematically.
@@ -16,7 +16,7 @@ By employing **Recursive Feature Elimination (RFE)**, the model strips out non-c
 
 ---
 
-## 📊 Key Analytical & Business Insights
+##  Key Analytical & Business Insights
 
 ### 1. The Baseline Exposure (Age vs. Charges)
 A foundational simple linear regression establishes a clear baseline for structural cost escalation:
@@ -42,7 +42,7 @@ By expanding the framework into an encoded, scaled Multiple Linear Regression mo
 
 ---
 
-## 🛠️ Feature Optimization & Architecture (RFE)
+##  Feature Optimization & Architecture (RFE)
 
 To streamline data collection overhead for underwriting agents, a Recursive Feature Elimination workflow was engineered to rank independent predictors by structural importance:
 
@@ -61,15 +61,15 @@ To streamline data collection overhead for underwriting agents, a Recursive Feat
 
 ---
 
-## 📂 Repository Blueprint
+##  Repository Blueprint
 
-* 📓 **`M11 Casestudy Sean Nelson-1-1.ipynb`** — End-to-end technical execution file. Contains data engineering, dummy encoding, feature scaling pipelines, model training, cross-validation, and visualization generation.
-* 📊 **`insurance.csv`** — Clean structured database containing historical parameter entries for 1,338 policyholders.
-* 📄 **`MedicalCostsSection3.docx`** — Project brief outlining corporate core objectives, instructions, and analytical prompts.
+*  **`M11 Casestudy Sean Nelson-1-1.ipynb`** — End-to-end technical execution file. Contains data engineering, dummy encoding, feature scaling pipelines, model training, cross-validation, and visualization generation.
+*  **`insurance.csv`** — Clean structured database containing historical parameter entries for 1,338 policyholders.
+*  **`MedicalCostsSection3.docx`** — Project brief outlining corporate core objectives, instructions, and analytical prompts.
 
 ---
 
-## 🚀 Deployment & Local Execution Guide
+##  Deployment & Local Execution Guide
 
 Follow these steps to deploy this analytics workspace on your local machine using **Git Bash**.
 
