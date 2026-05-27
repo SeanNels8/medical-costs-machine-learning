@@ -65,7 +65,6 @@ To streamline data collection overhead for underwriting agents, a Recursive Feat
 
 *  **`M11 Casestudy Sean Nelson-1-1.ipynb`** — End-to-end technical execution file. Contains data engineering, dummy encoding, feature scaling pipelines, model training, cross-validation, and visualization generation.
 *  **`insurance.csv`** — Clean structured database containing historical parameter entries for 1,338 policyholders.
-*  **`MedicalCostsSection3.docx`** — Project brief outlining corporate core objectives, instructions, and analytical prompts.
 
 ---
 
